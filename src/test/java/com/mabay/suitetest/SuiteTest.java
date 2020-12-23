@@ -15,8 +15,8 @@
  */
 package com.mabay.suitetest;
 
-import com.mabay.calculationtest.CalculatorTest;
-import com.mabay.customertest.CustomerTest;
+import com.mabay.calculationtest01.CalculatorTest;
+import com.mabay.customertest02.CustomerTest;
 import com.mabay.yasamdongusu.YasamDongusu;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
