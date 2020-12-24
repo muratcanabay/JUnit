@@ -15,10 +15,10 @@
         <property name="connection.autocommit">true</property>
         <property name="hbm2ddl.auto">update</property>
 
-        <mapping class="com.mabay.mysql.domain.Customer"/>
-        <mapping class="com.mabay.mysql.domain.Movie"/>
-        <mapping class="com.mabay.mysql.domain.Artist"/>
-        <mapping class="com.mabay.mysql.domain.MovieArtist"/>
+        <mapping class="io.github.muratcanabay.mysql.domain.Customer"/>
+        <mapping class="io.github.muratcanabay.mysql.domain.Movie"/>
+        <mapping class="io.github.muratcanabay.mysql.domain.Artist"/>
+        <mapping class="io.github.muratcanabay.mysql.domain.MovieArtist"/>
 
     </session-factory>
 </hibernate-configuration>
